@@ -1,0 +1,6 @@
+module Pods_intelliLead {
+  umbrella header "Pods-intelliLead-umbrella.h"
+
+  export *
+  module * { export * }
+}

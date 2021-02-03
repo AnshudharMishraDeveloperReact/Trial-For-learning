@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/intelliLead.iml" filepath="$PROJECT_DIR$/.idea/modules/intelliLead.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/intelliLead.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/intelliLead.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/421502862/intelliLead.react-native-community_art.iml" filepath="$PROJECT_DIR$/.idea/modules/421502862/intelliLead.react-native-community_art.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-48621419/intelliLead.react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-48621419/intelliLead.react-native-community_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1419303631/intelliLead.react-native-community_geolocation.iml" filepath="$PROJECT_DIR$/.idea/modules/-1419303631/intelliLead.react-native-community_geolocation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1942919378/intelliLead.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1942919378/intelliLead.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-990145467/intelliLead.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-990145467/intelliLead.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1046112128/intelliLead.react-native-picker_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/1046112128/intelliLead.react-native-picker_picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1274327735/intelliLead.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/1274327735/intelliLead.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1690652818/intelliLead.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1690652818/intelliLead.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1299702022/intelliLead.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1299702022/intelliLead.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1321548272/intelliLead.react-native-signature-capture.iml" filepath="$PROJECT_DIR$/.idea/modules/1321548272/intelliLead.react-native-signature-capture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1144622179/intelliLead.react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/1144622179/intelliLead.react-native-svg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1039437391/intelliLead.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-1039437391/intelliLead.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/558644600/intelliLead.react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/558644600/intelliLead.react-native-webview.iml" />
+    </modules>
+  </component>
+</project>

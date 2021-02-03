@@ -1,0 +1,6 @@
+module Pods_intelliLead_intelliLeadTests {
+  umbrella header "Pods-intelliLead-intelliLeadTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
